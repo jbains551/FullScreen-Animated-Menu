@@ -3,7 +3,7 @@ body {
 	width: 100%;
 	background: url('./assets/img2.jpg');
 	background-size: cover;
-	background-position: top;
+	background-position: center;
 	margin: 0;
 	padding: 0;
 }
